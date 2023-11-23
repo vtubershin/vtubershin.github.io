@@ -87,6 +87,10 @@ section {
   }
 }
 
+.twitter-icon {
+  text-align: center;
+  padding-bottom: 2cm;
+}
 .controls {
   position: fixed;
   z-index: 10;
